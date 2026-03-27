@@ -1,11 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/music-player)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/music-player?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/music-player?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/jbMd2NVFrZk?style=social)](https://youtu.be/jbMd2NVFrZk)
-
+  !...
   <br />
   <br />
 
@@ -13,15 +8,16 @@
 
   A fully responsive web music player using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript.
 
-  <a href="https://codewithsadee.github.io/music-player/"><strong>➥ Live Demo</strong></a>
+  <a href="http://127.0.0.1:5502/INTERN%20TASK%201/Index.html"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
 ### Demo Screeshots
+<img width="1920" height="920" alt="MP op" src="https://github.com/user-attachments/assets/356866d8-8b72-4422-a139-e305da07b0b5" />
 
-![Music Player Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
 
 ### Prerequisites
 
@@ -36,19 +32,19 @@ To run **Music Player** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/music-player.git
+sudo git clone https://github.com/..../music-player.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/music-player.git
+...........
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at ....
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and contain MIT license.
